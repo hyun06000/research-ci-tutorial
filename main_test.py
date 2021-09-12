@@ -1,6 +1,7 @@
 import unittest
 
-import main # import main.py
+import main  # import main.py
+
 
 class MainTest(unittest.TestCase):
     def test_helloworld(self):
